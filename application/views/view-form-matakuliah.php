@@ -6,7 +6,7 @@
 
 <body>
     <center>
-        <form action="<?= base_url('http://localhost/pustaka-booking/matakuliah'); ?>" method="post">
+        <form action="<?= base_url('Matakuliah/cetak'); ?>" method="post">
             <table>
                 <tr>
                     <th colspan="3"> 
