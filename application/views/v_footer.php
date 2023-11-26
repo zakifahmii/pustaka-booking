@@ -1,5 +1,5 @@
 <footer>
-    <a href=”http://www.KrisanaAditama.com”>Krisna Aditama</a>
+    <a href="zakifahmi.com">Muhammad Zaki Fahmi</a>
 </footer>
 </div>
 </body>
